@@ -11,3 +11,8 @@ Feature Selection Methods:
 Resampling Techniques:
 * Random Over-sampling
 * Synthetic Minority Over-sampling Technique(SMOTE)
+
+
+***
+The SMOTE oversamples your rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time. 
+***
