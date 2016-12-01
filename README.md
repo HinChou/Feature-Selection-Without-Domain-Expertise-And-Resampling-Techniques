@@ -17,6 +17,6 @@ Resampling Techniques:
 The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time. 
 ***
 
-Next thing I want to add in this repository is the methods of missing value imputation.
+Next thing I want to add into this repository is the methods of missing value imputation. I will come back to this later.
 
 
