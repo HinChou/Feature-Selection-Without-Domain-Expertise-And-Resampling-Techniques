@@ -18,5 +18,7 @@ The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighb
 ***
 
 Next thing I want to add into this repository is the methods of missing value imputation. I will come back to this later.
-
+* Mean and Median
+* Multiple Imputaion
+* EM Imputation
 
