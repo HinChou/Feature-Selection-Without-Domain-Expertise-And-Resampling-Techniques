@@ -21,5 +21,6 @@ Next thing I want to add into this repository is the methods of missing value im
 * Mean and Median Imputaion
 * Multiple Imputaion
 * EM Imputation
+* other Imputation Methods
 
 Advantages and Disadvantages among the methods listing above...
