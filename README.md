@@ -5,7 +5,7 @@ Feature Selection Methods:
 
 * Removing Features with Low Variance    
 *  Univariate Feature Selection
-*  Recursive Feature Elimination    
+*  Recursive Feature Elimination(Running time and Accuracy Trade off)   
 * Feature Selection Using SelectFromMode
 
 Resampling Techniques:
