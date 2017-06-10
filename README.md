@@ -1,14 +1,14 @@
 # Feature-Selection-Without-Domain-Expertise-And-Resampling-Techniques
 Realize Several Feature Selection Methods without Haveing Domain Expertise and Realize Two Classes of Resampling Techniques
 
-Feature Selection Methods:
+### Feature Selection Methods:
 
 * Removing Features with Low Variance    
 * Univariate Feature Selection
 * Recursive Feature Elimination(Running Time and Accuracy Trade off)   
 * Feature Selection Using SelectFromMode
 
-Resampling Techniques:
+### Resampling Techniques:
 * Random Over-sampling
 * Synthetic Minority Over-sampling Technique(SMOTE)
 
@@ -19,7 +19,7 @@ The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighb
 
 Next thing I want to add into this repository is the methods of missing value imputation. I will come back to this later.
 
-Missing Value Imputation Methods:
+### Missing Value Imputation Methods:
 * Mean and Median Imputaion
 * Multiple Imputaion
 * EM Imputation
