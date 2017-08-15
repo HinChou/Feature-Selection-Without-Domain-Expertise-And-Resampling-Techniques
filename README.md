@@ -17,7 +17,7 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time. 
 ***
 
-Next thing I want to add into this repository is the methods of missing value imputation and the methods of converting categorical variables to numerical variables. I will come back to this later.
+Next things I want to add into this repository are the methods of missing value imputation and the methods of converting categorical variables to numerical variables. I will come back to this later.
 
 ### Missing Value Imputation Methods:
 * Mean and Median Imputaion
