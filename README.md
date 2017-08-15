@@ -21,7 +21,7 @@ Next thing I want to add into this repository is the methods of missing value im
 
 ### Missing Value Imputation Methods:
 * Mean and Median Imputaion
-* Multiple Imputaion
+* Multiple Imputaion by Chained Equations
 * EM Imputation
 * Other Imputation Methods
 
