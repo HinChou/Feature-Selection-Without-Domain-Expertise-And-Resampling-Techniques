@@ -3,7 +3,7 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 
 ### Feature Selection Methods:
 
-* Removing Features with Low Variance    
+* Removing Features with Low Variance(Useful for Prescreened the Large Variables Set)    
 * Univariate Feature Selection
 * Recursive Feature Elimination(Running Time and Accuracy Trade off)   
 * Feature Selection Using SelectFromMode
