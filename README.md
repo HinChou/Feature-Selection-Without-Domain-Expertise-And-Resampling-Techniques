@@ -25,10 +25,10 @@ Next things I want to add into this repository are the methods of missing value 
 * EM Imputation
 * Other Imputation Methods
 
-Advantages and disadvantages (Comparison) among the methods listing above...
+Advantages and disadvantages (Comparison) among the methods listing above.
 
 ### Methods of Converting Categorical Variables to Numerical Variables:
 * Dummy Variable Method(Continuous Variable Method)
 * One-hot Encoding
 
-Advantages and disadvantages (Comparison) among the methods listing above...
+Advantages and disadvantages (Comparison) among the methods listing above.
