@@ -12,7 +12,6 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 * Random Over-sampling
 * Synthetic Minority Over-sampling Technique(SMOTE)
 
-
 ***
 The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time. 
 ***
@@ -30,5 +29,11 @@ Advantages and disadvantages (Comparison) among the methods listing above.
 ### Methods of Converting Categorical Variables to Numerical Variables:
 * Dummy Variable Method(Continuous Variable Method)
 * One-hot Encoding
+
+Advantages and disadvantages (Comparison) among the methods listing above.
+
+### Methods of Parameter Tuning:
+* Grid Search with Cross Validation
+* Random Search with Cross Validation
 
 Advantages and disadvantages (Comparison) among the methods listing above.
