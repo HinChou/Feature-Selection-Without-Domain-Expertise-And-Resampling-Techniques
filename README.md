@@ -34,6 +34,6 @@ Advantages and disadvantages (Comparison) among the methods listing above.
 
 ### 5. Methods of Parameter Tuning
 * Grid Search with Cross Validation
-* Random Search with Cross Validation
+* Randomized Search with Cross Validation
 
 Advantages and disadvantages (Comparison) among the methods listing above.
