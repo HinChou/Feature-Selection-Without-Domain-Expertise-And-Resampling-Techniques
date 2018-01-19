@@ -29,6 +29,7 @@ Advantages and disadvantages (Comparison) among the methods listing above.
 ### 4. Methods of Converting Categorical Variables to Numerical Variables
 * Dummy Variable Method(Continuous Variable Method)
 * One-hot Encoding
+* LabelEncoder(scikit-learn)
 
 Advantages and disadvantages (Comparison) among the methods listing above.
 
