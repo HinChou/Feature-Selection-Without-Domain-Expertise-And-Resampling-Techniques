@@ -8,6 +8,8 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 * Recursive Feature Elimination(Running Time and Accuracy Trade off)   
 * Feature Selection Using SelectFromMode
 
+What can we do if there are still too many variables after using feature selection methods above?
+
 ### 2. Resampling Techniques
 * Random Over-sampling
 * Synthetic Minority Over-sampling Technique(SMOTE)
