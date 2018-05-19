@@ -29,7 +29,7 @@ Next things I want to add to this repository are the methods of missing value im
 Advantages and disadvantages (Comparison) among the methods listing above.
 
 ### 4. Methods of Converting Categorical Variables to Numerical Variables
-* Dummy Variable Method(For Continuous Variable Method)
+* Dummy Variable Method(For Nonbinary Variable Method)
 * One-hot Encoding
 * LabelEncoder(scikit-learn)
 
