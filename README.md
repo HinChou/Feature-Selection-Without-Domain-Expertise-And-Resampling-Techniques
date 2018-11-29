@@ -41,7 +41,7 @@ Advantages and disadvantages (Comparison) among the methods listing above.
 
 Advantages and disadvantages (Comparison) among the methods listing above.
 
-### 6. Feature Generation and Auto Model Training]
+### 6. Feature Generation and Auto Model Training
 * Featuretools Module in Python: Featuretools is a python library for automated feature engineering.
 
 References: 
