@@ -40,3 +40,20 @@ Advantages and disadvantages (Comparison) among the methods listing above.
 * Randomized Search with Cross Validation
 
 Advantages and disadvantages (Comparison) among the methods listing above.
+
+### 6. Feature Generation and Auto Model Training]
+* Featuretools Module in Python: Featuretools is a python library for automated feature engineering.
+
+References: 
+
+a. https://github.com/Featuretools/featuretools     
+b. https://docs.featuretools.com/
+
+* AutoML: Automated machine learning for production and analytics
+
+References: 
+
+a. https://auto-ml.readthedocs.io/en/latest/  
+b. https://pypi.org/project/automl/
+c. https://github.com/automl  
+d. https://www.kdnuggets.com/2017/01/current-state-automated-machine-learning.html
