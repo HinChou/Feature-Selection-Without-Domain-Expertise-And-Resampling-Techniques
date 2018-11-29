@@ -52,6 +52,6 @@ b. https://docs.featuretools.com/
 
 References:  
 a. https://auto-ml.readthedocs.io/en/latest/  
-b. https://pypi.org/project/automl/ 
+b. https://pypi.org/project/automl/   
 c. https://github.com/automl  
 d. https://www.kdnuggets.com/2017/01/current-state-automated-machine-learning.html
