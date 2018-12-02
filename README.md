@@ -15,7 +15,7 @@ What can we do if there are still too many variables after using feature selecti
 * Synthetic Minority Over-sampling Technique(SMOTE)
 
 ***
-The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time. 
+The SMOTE oversamples the rare event by using bootstrapping and k-nearest neighbor to synthetically create additional observations of that event. The definition of rare event is usually attributed to any outcome/dependent/target/response variable that happens less than 15% of the time.
 ***
 
 Next several things I want to add to this repository are the methods of missing value imputation and the methods of converting categorical variables to numerical variables. I will come back to this later.
@@ -26,23 +26,23 @@ Next several things I want to add to this repository are the methods of missing 
 * EM Imputation
 * Other Imputation Methods
 
-Advantages and disadvantages (Comparison) among the methods listing above.
+Advantages and disadvantages (Comparison) among the methods listing above
 
 ### 4. Methods of Converting Categorical Variables to Numerical Variables
 * Dummy Variable Method(For Nonbinary Variable Method)
 * One-hot Encoding
 * LabelEncoder(scikit-learn)
 
-Advantages and disadvantages (Comparison) among the methods listing above.
+Advantages and disadvantages (Comparison) among the methods listing above
 
 ### 5. Methods of Parameter Tuning
 * Grid Search with Cross Validation
 * Randomized Search with Cross Validation
 
-Advantages and disadvantages (Comparison) among the methods listing above.
+Advantages and disadvantages (Comparison) among the methods listing above
 
 ### 6. Feature Generation and Auto Model Training
-* Featuretools Module in Python: Featuretools is a python library for automated feature engineering.
+* Featuretools Module in Python: Featuretools is a python library for automated feature engineering
 
 References:  
 a. https://github.com/Featuretools/featuretools     
