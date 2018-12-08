@@ -48,7 +48,7 @@ References:
 a. https://github.com/Featuretools/featuretools     
 b. https://docs.featuretools.com/
 
-* AutoML: Automated machine learning for production and analytics
+* AutoML Framework: Automated machine learning for production and analytics
 
 References:  
 a. https://auto-ml.readthedocs.io/en/latest/  
