@@ -8,7 +8,7 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 * Recursive Feature Elimination(Running Time and Accuracy Trade off)   
 * Feature Selection Using SelectFromMode
 
-What can we do if there are still too many variables after using feature selection methods above?
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `What can we do if there are still too many variables after using feature selection methods above?`
 * To answer this question, **_please remind me my FeatureReduction Function in Machine Learning Template_**
 
 ### 2. Resampling Techniques
