@@ -9,6 +9,7 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 * Feature Selection Using SelectFromMode
 
 What can we do if there are still too many variables after using feature selection methods above?
+* To answer this question, **_please remind me my FeatureReduction Function in Machine Learning Template_**
 
 ### 2. Resampling Techniques
 * Random Over-sampling
