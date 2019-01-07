@@ -5,7 +5,7 @@ Realize Several Feature Selection Methods without Haveing Domain Expertise and R
 
 * Removing Features with Low Variance(Useful for Prescreened the Large Variables Set)    
 * Univariate Feature Selection
-* Recursive Feature Elimination(Running Time and Accuracy Trade off)   
+* Recursive Feature Elimination(Running Time and Accuracy Trade Off)   
 * Feature Selection Using SelectFromMode
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `What can we do if there are still too many variables after using feature selection methods above?`
